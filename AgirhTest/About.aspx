@@ -5,6 +5,8 @@
         
         <h2> Modifié par RACHID. </h2>
 
+        <h3> Modifié T2. </h3>
+
         <h2 id="title"><%: Title %>.</h2>
         <h3>Your application description page.</h3>
         <p>Use this area to provide additional information!</p>
